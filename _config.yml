@@ -6,8 +6,10 @@ title: # the website title (if blank, full name will be used instead)
 first_name: Benedictus Christo Cinun
 middle_name: 
 last_name: Cinun
+
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website of Benedictus Christo Geroda Cinun,
   a Ph.D. student in Electrical Engineering at the University of Houston
