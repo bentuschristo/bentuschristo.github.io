@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Benedictus Christo Geroda Cinun
 permalink: /
 subtitle: Ph.D. Student in Electrical Engineering · University of Houston
 
