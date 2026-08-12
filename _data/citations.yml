@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-12'
 papers:
   KHwPw0YAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -26,6 +26,6 @@ papers:
     title: Kinematic Modeling and Prototype Development of a Six Degrees-of-Freedom Stewart Platform
     year: '2024'
   KHwPw0YAAAAJ:qjMakFHDy7sC:
-    citations: 1
+    citations: 2
     title: "End\u2010to\u2010End Design and Validation of a Low\u2010Cost Stewart Platform With Nonlinear Estimation and Control"
     year: '2026'
